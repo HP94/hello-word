@@ -1,3 +1,3 @@
 # hello-world
-just another reprository
+just another repository
 tell a bit about me, but not too much
